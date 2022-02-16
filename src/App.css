@@ -1,38 +1,73 @@
-.App {
+.body-page {
+  padding: 100px;
+  background-color: #374151;
+}
+.cake-card {
+  margin: 50px;
+  margin-top: -60px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 1000px;
+  padding: 50px;
+  padding-right: 50px;
   text-align: center;
+  background-color: #fff;
+  border: 2px solid rgb(255, 141, 141);
+  border-radius: 10px;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.sel1 {
+  margin-left: 150px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.sel2 {
+  margin-left: 119px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.sel3 {
+  margin-left: 83px;
 }
-
-.App-link {
-  color: #61dafb;
+.sel4 {
+  margin-left: 108px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sel5 {
+  margin-left: 50px;
+}
+.flow {
+  margin-top: 20px;
+  margin-right: 130px;
+}
+.star {
+  margin-top: 20px;
+  margin-right: 148px;
+}
+.diam {
+  margin-top: 20px;
+  margin-right: 111px;
+}
+.hear {
+  margin-top: 20px;
+  margin-right: 135px;
+  margin-bottom: 30px;
+}
+.starico {
+  margin-left: 205px;
+  margin-right: 20px;
+  color: #ff4ff3;
+  margin-top: 19px;
+}
+.flowico {
+  margin-left: 205px;
+  margin-right: 20px;
+  margin-top: 19px;
+  color: #ff4ff3;
+}
+.diamico {
+  margin-left: 205px;
+  margin-right: 20px;
+  margin-top: 19px;
+  color: #ff4ff3;
+}
+.hearico {
+  margin-left: 205px;
+  margin-right: 20px;
+  margin-top: 19px;
+  color: #ff4ff3;
 }
